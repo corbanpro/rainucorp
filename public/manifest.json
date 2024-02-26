@@ -1,7 +1,23 @@
 {
   "short_name": "Rainucorp",
   "name": "We're in the family business",
-  "icons": [],
+  "icons": [
+    {
+      "src": "./letter-r-24.png",
+      "type": "image/png",
+      "sizes": "24x24"
+    },
+    {
+      "src": "./letter-r-128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "./letter-r-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
